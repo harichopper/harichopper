@@ -79,7 +79,7 @@
     </td>
     <td align="center" width="96">
       <a href="#harichopper" >
-        <img src="https://camo.githubusercontent.com/d7574156c7a1844d3c2907bae0e76254cca759290c08e08a6ef2bd7543c8c0ca/68747470733a2f2f692e6962622e636f2f737331374b47302f63376238313133323437666563643833626439623565643562643366333464352d72656d6f766562672d707265766965772e706e67" width="48" height="48" alt="Linux" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
       </a>
       <br>Linux
     </td>
