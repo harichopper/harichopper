@@ -234,6 +234,35 @@ Here are some 🦜 Party Parrots:
 <img src="https://raw.githubusercontent.com/harichopper/harichopper/output/snake.svg" alt="Snake animation" />
 
 ###
+<div align="left">
+  <a href="https://www.linkedin.com/in//Hariharan" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/haricdonh" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://www.instagram.com/haricdonh07?igsh=MWFseTMwdTZiaWRqcg==" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://wa.me/919962023668" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
+  <a href="haricdonh@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="haricdonh@outlook.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
+  </a>
+</div>
 
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31lyjigfik6ymybqzu5lpwf24woi">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31lyjigfik6ymybqzu5lpwf24woi&count=6" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
 
 
