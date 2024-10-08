@@ -235,7 +235,7 @@ Here are some 🦜 Party Parrots:
 
 ###
 <div align="left">
-  <a href="https://www.linkedin.com/in//Hariharan" target="_blank">
+  <a href="https://www.linkedin.com/in/hariharan-r-32672a293/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/haricdonh" target="_blank">
@@ -264,5 +264,3 @@ Here are some 🦜 Party Parrots:
 </div>
 
 ###
-
-
