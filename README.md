@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hari Haran </h1>
+<h1 align="center">Hi 👋, I'm Hari Haran R</h1>
 <h3 align="center">Passionate for innovation, A boy trying to figure-out stuff!!</h3>
 <h3>Meet a dynamic and forward-thinking young developer who's blazing a trail in the realm of innovation. With an unwavering passion for problem-solving, they are on a mission to craft impactful solutions to some of the toughest challenges society faces. Their dedication to pushing the boundaries of creativity knows no bounds, as they channel their energy into leveraging technology to bring about tangible change. Fueled by curiosity and a thirst for knowledge, this visionary developer is carving a path toward a future where innovation not only thrives but also transforms lives for the better..</h3>
 
