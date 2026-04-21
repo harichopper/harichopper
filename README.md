@@ -1,14 +1,14 @@
-<h1 align="center">Hi 👋, I'm Hari Haran R</h1>
-<h3 align="center">Passionate about innovation, a developer figuring things out 🚀</h3>
+<h1 align="center">Hey there 👋, I'm Hari Haran R</h1>
+<h3 align="center">Full Stack Developer · MERN Enthusiast · Always Building Something 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Always+Learning+New+Things;Currently+Pursuing+MCA" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Open+Source+Contributor;Currently+Pursuing+MCA" />
 </p>
 
 ---
 
 <h3 align="center">
-Meet a passionate and forward-thinking developer who is continuously exploring the boundaries of innovation. With a strong drive for problem-solving, he focuses on building impactful and scalable solutions to real-world challenges. His curiosity fuels constant learning, while his dedication to technology enables him to transform ideas into meaningful applications. As he advances in his journey, he strives to create solutions that not only solve problems but also leave a lasting impact.
+I'm a developer who loves turning ideas into real, working products. Currently pursuing my MCA, I focus on building full-stack web apps — clean frontends, solid backends, and everything in between. I'm always learning, always shipping, and always up for a good collaboration.
 </h3>
 
 ---
@@ -20,13 +20,14 @@ Meet a passionate and forward-thinking developer who is continuously exploring t
 ---
 
 ### 👨‍💻 About Me
-- 👋 Hi, I’m Hariharan  
-- 👀 I’m interested in building and recreating innovative applications  
-- 🎓 Completed B.Sc (Computer Science)  
-- 🎓 Currently pursuing MCA  
-- 💞️ I’m looking to collaborate on new ideas and projects  
-- 📫 Reach me at: <a href="mailto:haricdonh@gmail.com">haricdonh@gmail.com</a>  
-- 💻 Connect: <a href="https://www.linkedin.com/in/hariharan-r-32672a293/">LinkedIn</a>  
+
+- 👋 I'm **Hariharan** — a developer who enjoys building and recreating innovative applications
+- 🎓 Completed **B.Sc (Computer Science)** · Currently pursuing **MCA**
+- 🔭 Working on full-stack projects with the **MERN stack**
+- 🌱 Currently exploring **TypeScript**, **Next.js**, and **Cloud Architecture**
+- 💞️ Looking to collaborate on exciting ideas and open-source projects
+- 📫 Reach me at: [haricdonh@gmail.com](mailto:haricdonh@gmail.com)
+- 💻 Connect on: [LinkedIn](https://www.linkedin.com/in/hariharan-r-32672a293/)
 
 ---
 
@@ -44,7 +45,6 @@ Meet a passionate and forward-thinking developer who is continuously exploring t
 <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48"/><br>Node JS</td>
 <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48"/><br>MongoDB</td>
 </tr>
-
 <tr>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48"/><br>C</td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48"/><br>Linux</td>
@@ -56,12 +56,11 @@ Meet a passionate and forward-thinking developer who is continuously exploring t
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48"/><br>Git</td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48"/><br>PHP</td>
 </tr>
-
 <tr>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="48"/><br>Tailwind</td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="48"/><br>Bash</td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48"/><br>Figma</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48"/><br>Tensorflow</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48"/><br>TensorFlow</td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="48"/><br>Material UI</td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="48"/><br>Solidity</td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="48"/><br>Redux</td>
@@ -74,9 +73,7 @@ Meet a passionate and forward-thinking developer who is continuously exploring t
 
 ### 🦜 Party Parrots
 
-
 <p align="center">
-
 <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30"/>
 <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30"/>
 <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36"/>
@@ -101,12 +98,12 @@ Meet a passionate and forward-thinking developer who is continuously exploring t
 <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30"/>
 <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30"/>
 <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30"/>
-
 </p>
 
 ---
 
-### ✍️ Quote
+### ✍️ Dev Quote of the Day
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
@@ -116,6 +113,9 @@ Meet a passionate and forward-thinking developer who is continuously exploring t
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=harichopper&show_icons=true&theme=dracula" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harichopper&layout=compact&theme=dracula" height="150"/>
+</div>
+
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=harichopper&theme=dracula" height="150"/>
 </div>
 
@@ -135,15 +135,19 @@ Meet a passionate and forward-thinking developer who is continuously exploring t
   <a href="https://www.linkedin.com/in/hariharan-r-32672a293/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
+  &nbsp;
   <a href="https://x.com/haricdonh" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" height="40"/>
   </a>
+  &nbsp;
   <a href="https://www.instagram.com/haricdonh07" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
   </a>
+  &nbsp;
   <a href="https://wa.me/919962023668">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" height="40" alt="WhatsApp"/>
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="40" alt="WhatsApp"/>
   </a>
+  &nbsp;
   <a href="mailto:haricdonh@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
   </a>
@@ -151,8 +155,14 @@ Meet a passionate and forward-thinking developer who is continuously exploring t
 
 ---
 
-### 🎧 Spotify
+### 🎧 Recently Played on Spotify
 
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31lyjigfik6ymybqzu5lpwf24woi&count=6" />
+</div>
+
+---
+
+<div align="center">
+  <sub>⚡ Thanks for stopping by — let's build something cool together!</sub>
 </div>
