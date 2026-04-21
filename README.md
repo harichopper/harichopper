@@ -141,8 +141,8 @@ Meet a dynamic and forward-thinking young developer who's blazing a trail in the
   <a href="https://www.instagram.com/haricdonh07" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
   </a>
-  <a href="https://wa.me/919962023668" target="_blank">
-    <img src="https://skillicons.dev/icons?i=whatsapp" height="40"/>
+  <a href="https://wa.me/919962023668">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" height="40" alt="WhatsApp"/>
   </a>
   <a href="mailto:haricdonh@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
