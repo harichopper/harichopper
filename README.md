@@ -159,7 +159,7 @@ I'm a developer who loves turning ideas into real, working products. Currently p
 
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31lyjigfik6ymybqzu5lpwf24woi&count={7}" />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31lyjigfik6ymybqzu5lpwf24woi&count=7" />
 </div>
 
 ---
