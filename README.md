@@ -157,8 +157,9 @@ I'm a developer who loves turning ideas into real, working products. Currently p
 
 ### 🎧 Recently Played on Spotify
 
+
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31lyjigfik6ymybqzu5lpwf24woi&count=6" />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31lyjigfik6ymybqzu5lpwf24woi&count={7}" />
 </div>
 
 ---
